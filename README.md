@@ -1,8 +1,20 @@
-# React + Vite
+# README Generator Template
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A basic template to quickly generate a well-structured README file for your GitHub repositories. Customize it to fit your project's needs!
 
-Currently, two official plugins are available:
+## Getting Started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+To get your React project up and running, follow these steps:
+
+1. **Install dependencies**  
+   Run the following command to install all required dependencies:
+   ```bash
+   npm install
+2. **Start the development server**
+Once the dependencies are installed, start the development server by running:
+   ```bash
+   npm run dev
+3. **Access the app**
+After the server starts, open your browser and navigate to:
+   ```bash
+   http://localhost:3000
